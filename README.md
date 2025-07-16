@@ -14,7 +14,6 @@ This repo contains all 3D-printable components for assembling **Dropbear**. It i
 
 ```
 dropbear_printables/
-├── subassemblies/
 │   ├── head/
 │       └── plates/
 │       └── STLs/
@@ -24,8 +23,7 @@ dropbear_printables/
 │   ├── left_leg/
 │   ├── right_leg/
 │   └── pelvis/
-├── renders/
-├── docs/
+├── print_settings.md/
 └── README.md
 ```
 
